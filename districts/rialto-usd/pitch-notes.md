@@ -5,27 +5,77 @@
 
 ---
 
-## Opening (Email or Call)
+## Cold Emails
 
-**For Juanita Chan-Roden:**
+### Email 1: Juanita Chan-Roden (Director of Science)
+
+**Subject line options (pick one):**
+- A) "STEM CARES + computational modeling?"
+- B) "Bilingual modeling tool for Rialto's NGSS goals"
+- C) "Quick question about Rialto's science programs"
 
 > Hi Juanita,
 >
-> I'm reaching out because Rialto's STEM CARES program caught my attention - the idea of students using locally relevant environmental issues to think globally and act locally is exactly the approach we believe in at ModelIt.
+> Your STEM CARES program stood out to me — students investigating local environmental issues is exactly the kind of work that computational modeling amplifies.
 >
-> ModelIt is an NSF SBIR-funded computational modeling platform that lets students build, simulate, and test systems models - of ecosystems, pollution cycles, population dynamics, disease spread, or any scientific phenomenon they're investigating. It's fully bilingual (English/Spanish), NGSS-aligned, and works alongside existing curriculum like Discovery Education.
+> ModelIt is an NSF SBIR-funded platform where students build and simulate systems models (ecosystems, pollution, disease spread). It's bilingual (EN/ES), NGSS-aligned, and complements Discovery Education — not replaces it.
 >
-> With your district's strong commitment to environmental stewardship and STEM equity for your 86% Hispanic student population, I think there's a natural fit. Would you have 15 minutes for a quick call to explore whether ModelIt could support your STEM goals?
+> With 86% Hispanic enrollment and science proficiency at ~15%, I think there's a strong fit.
+>
+> Would [DAY, DATE] at [TIME] work for a 15-minute call? Happy to adjust to your schedule.
+>
+> Best,
+> [SENDER NAME]
+> [SENDER TITLE], ModelIt / Discovery Collective
+> [SENDER EMAIL]
 
-**For Dr. Kevin Goodly (Math Director):**
+*(~100 words)*
+
+---
+
+### Email 2: Dr. Kevin Goodly (Director of Mathematics)
+
+**Subject line options (pick one):**
+- A) "Math proficiency + computational modeling for Rialto"
+- B) "Addressing the grade 3-to-8 math drop"
+- C) "A modeling approach to math reasoning (complements iReady)"
 
 > Hi Dr. Goodly,
 >
-> I know improving math proficiency is a top priority for Rialto - and computational modeling is one of the most effective ways to build mathematical reasoning in context. ModelIt lets students build models that require them to think about variables, rates of change, functions, and data analysis - all while solving real-world science problems.
+> Rialto's math proficiency is at 23.73%, dropping from 34% in grade 3 to 18% by grade 8. That grade 5–8 window is exactly where computational modeling has the most impact.
 >
-> Our NSF research shows that students who use computational modeling show significant gains in mathematical reasoning. With your math proficiency at 24% and the steepest drop happening in grades 5-8, that's exactly the grade band where ModelIt has the most impact.
+> ModelIt (NSF SBIR-funded) lets students build mathematical models of real phenomena — using variables, functions, and data analysis in context. It complements iReady by moving from procedural practice to applied reasoning.
 >
-> Would you be open to a 15-minute call to see if this might complement your iReady math intervention work?
+> Would [DAY, DATE] at [TIME] work for a 15-minute call? I can show you a quick demo relevant to your grade bands.
+>
+> Best,
+> [SENDER NAME]
+> [SENDER TITLE], ModelIt / Discovery Collective
+> [SENDER EMAIL]
+
+*(~105 words)*
+
+---
+
+### Follow-Up Email (send 5-7 days after initial, if no reply)
+
+**Use for either contact — adjust name/data as needed.**
+
+**Subject:** "Re: [ORIGINAL SUBJECT LINE]"
+
+> Hi [Juanita / Dr. Goodly],
+>
+> Just circling back on my note from last week. I know this time of year is busy with LCAP planning.
+>
+> One quick data point: our NSF research shows students using ModelIt gain significant ground in mathematical reasoning — particularly in the grade 5–8 band where Rialto sees the steepest decline.
+>
+> Happy to find 15 minutes whenever works for you — even a quick call to see if it's worth exploring.
+>
+> Best,
+> [SENDER NAME]
+> [SENDER TITLE], ModelIt / Discovery Collective
+
+*(~70 words)*
 
 ---
 

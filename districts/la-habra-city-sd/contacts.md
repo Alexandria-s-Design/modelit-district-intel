@@ -32,7 +32,7 @@
 | Jessica Stout-Ryder | Student Enrichment and Wellness Program Specialist | TBD | Enrichment programs, ELO-P connection. |
 | Jody Green | Academic Coach | TBD | Instructional coaching — classroom-level champion potential. |
 | Aniko Tegtmeier | District Librarian | TBD | Library/media resources. |
-| Janet Delgado-Gutierrez | Administrative Assistant (Ed Services) | TBD | Gatekeeper to Dr. Sandoval. |
+| Janet Delgado-Gutierrez | Executive Assistant / Administrative Assistant (Educational Services) | TBD | **Key gatekeeper**: Manages Dr. Sandoval's calendar and scheduling. First point of contact when calling the Ed Services office. Route all meeting requests through her. Call (562) 690-2305, ask for Educational Services, ask for Janet. |
 
 ### Tier 4: School Leadership (Key Sites)
 
@@ -91,8 +91,8 @@
 - **Dr. Sandoval is the key**: As the curriculum leader, she decides what tools enter classrooms. Her background in "Innovative Education Programs" suggests openness to new approaches. She oversees assessment (Emily Flesher reports to her), curriculum adoptions, and PD.
 - **Dr. Carlos has personal connection to instruction**: He started as a 5th grade teacher at Walnut Elementary (now a STEAM Academy) and spent 10 years as a middle school principal at Washington MS. He understands what teachers need and has deep personal ties to the community.
 - **Board member Minerva Siguenza Gomez**: Name suggests potential bilingual/bicultural connection — could be a champion for bilingual tools serving the 86% Hispanic community.
-- **No individual emails available**: Plan for phone calls to the district office and/or the Contact Us form as initial outreach channels. Consider requesting a meeting through Janet Delgado-Gutierrez, the Ed Services administrative assistant.
+- **No individual emails available**: Plan for phone calls to the district office and/or the Contact Us form as initial outreach channels. Route meeting requests through Janet Delgado-Gutierrez, the Executive Assistant in Ed Services — she controls Dr. Sandoval's calendar.
 - **Measure O creates a modernization moment**: $73M bond for facilities upgrades means the district is in "building mode" — new software can ride this wave.
 - **Feeder pattern context**: La Habra students feed into Fullerton Joint Union HSD for high school. If ModelIt succeeds at K-8, it creates a natural conversation with Fullerton JUHSD for grades 9-12 expansion.
-- **Best outreach window**: District office is reachable at (562) 690-2305. Ask for the Educational Services department. Janet Delgado-Gutierrez is the administrative assistant who schedules meetings for Dr. Sandoval.
+- **Best outreach window**: District office is reachable at (562) 690-2305. Ask for the Educational Services department. Janet Delgado-Gutierrez is the Executive Assistant who manages Dr. Sandoval's calendar — she is the single most important person for getting a meeting scheduled. Be courteous and clear about the purpose of your call.
 - **21st Century Learning commitment**: District is part of the Partnership for 21st Century Learning framework (4C's: Collaboration, Communication, Creativity, Critical Thinking). Computational modeling aligns with all four C's.

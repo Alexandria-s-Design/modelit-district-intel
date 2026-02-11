@@ -112,6 +112,7 @@ Search the web for ALL of the following data points. Be thorough - use multiple 
 **Contacts:**
 - Search the district website for staff directories, especially Education Services/Curriculum & Instruction
 - Find: Superintendent, Associate/Assistant Superintendent of Instruction, STEM/Science Director/Coordinator, Math Director, Technology Director, CTE Director
+- Find: Executive Assistant / Administrative Assistant to the Superintendent and/or to the Asst. Superintendent of Ed Services — these are calendar gatekeepers who control scheduling access to decision makers
 - Get verified emails from the district website (not guessed)
 - Find all Board of Education members with names, positions, emails, and terms
 - Note the email pattern used (first.last@, finitial.last@, etc.)
@@ -151,7 +152,7 @@ Create a folder at `districts/[district-slug]/` (lowercase, hyphenated, e.g., `f
 3. **`contacts.md`** - All contacts organized by tier:
    - Tier 1: Primary entry points (STEM coordinator, science director)
    - Tier 2: Decision influencers (superintendent, assistant supt.)
-   - Tier 3: Curriculum staff (math director, tech director, academic agents)
+   - Tier 3: Curriculum staff (math director, tech director, academic agents). **Include Executive Assistants / Administrative Assistants** to the Superintendent and/or Asst. Superintendent of Ed Services — these are calendar gatekeepers who control scheduling. Note their name, phone extension, and gatekeeper role.
    - Tier 4: Other education services leadership
    - Tier 5: Board members (all with emails, areas, terms)
    - Email pattern analysis
@@ -160,6 +161,7 @@ Create a folder at `districts/[district-slug]/` (lowercase, hyphenated, e.g., `f
 4. **`board-meetings.md`** - Board meeting extraction:
    - Meeting index table (2025-present) with agenda and minutes links
    - Known key actions from news/public sources
+   - **Purchasing & Warrants section**: Track vendor payments, purchase orders, contracts, and warrant registers from board consent calendars. Include extraction template for flagging: curriculum publisher payments, EdTech platform costs, technology hardware purchases, PD vendor payments, STEM equipment orders, and assessment platform costs. This reveals current vendors, contract sizes, and spending patterns.
    - Extraction template for PDF review
    - Summary statistics placeholder
 

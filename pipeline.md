@@ -33,6 +33,7 @@
 | Bear Valley USD | 1 - Identified | Leigh Anne Drake (leighanne_drake@bearvalleyusd.org) | Email intro re: BEARTECH + math gap | Mar 2026 | $5-10K pilot → $15K scale | 30% math, Physics PhD board president, BEARTECH program |
 | Valley Center-Pauma USD | 1 - Identified | Mark Hailwood (hailwood.ma@vcpusd.org) | Email intro re: math priority + agriculture | Feb-Mar 2026 | $10-15K pilot → $25K scale | 18% math, new supt w/ math priority, FFA, Dual Immersion, solar STEAM, tribal MOUs |
 | La Habra City SD | 1 - Identified | Dr. Patricia Sandoval (TBD — use Contact Us form) | Phone call to district office, request meeting | Mar 2026 | $10-15K pilot → $25-40K scale | 86% Hispanic, 80% ED, $73M Measure O bond, STEAM Academies, PLTW, 11.78% EL math |
+| Fontana USD | 1 - Identified | Dolly Bergen (dolly.bergen@fusd.net) | Contact Dr. Alvarez for warm intro; email Bergen + Lawe | Feb-Mar 2026 | $40-75K pilot → $150-300K+ scale | 33K students, 77% not meeting math, $408M Measure I, Bio Animakerspace, WRO robotics, warm connection Dr. Alvarez (Rialto USD Supt) |
 
 ---
 
@@ -41,14 +42,14 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 8 | $63-240K |
+| Identified | 9 | $103-540K |
 | Contacted | 0 | - |
 | Engaged | 0 | - |
 | Demo | 0 | - |
 | Pilot Proposed | 0 | - |
 | Pilot Active | 0 | - |
 | Won | 0 | - |
-| **Total** | **8** | **$63K-240K** |
+| **Total** | **9** | **$103K-540K** |
 
 ---
 
@@ -69,7 +70,7 @@ When selecting new districts for analysis, prioritize:
 | District | County | Enrollment | Why | Priority |
 |----------|--------|-----------|-----|----------|
 | San Bernardino City USD | San Bernardino | ~48,000 | Nearby, large, similar demographics | High |
-| Fontana USD | San Bernardino | ~36,000 | Alvarez previously worked here | High |
+| ~~Fontana USD~~ | ~~San Bernardino~~ | ~~~36,000~~ | ~~MOVED TO ACTIVE PIPELINE~~ | ~~Done~~ |
 | Compton USD | Los Angeles | ~20,000 | Alvarez previously worked here | Medium |
 | Escondido Union HSD | San Diego | ~8,000 | Local to Carlsbad, north SD County | Medium |
 | Oceanside USD | San Diego | ~18,000 | Local, Camp Pendleton connection | Medium |

@@ -36,6 +36,8 @@
 | Fontana USD | 1 - Identified | Dolly Bergen (dolly.bergen@fusd.net) | Contact Dr. Alvarez for warm intro; email Bergen + Lawe | Feb-Mar 2026 | $40-75K pilot → $150-300K+ scale | 33K students, 77% not meeting math, $408M Measure I, Bio Animakerspace, WRO robotics, warm connection Dr. Alvarez (Rialto USD Supt) |
 | Fountain Valley SD | 1 - Identified | Dr. Jerry Gargus (TBD email) | Email intro via district office | Mar 2026 | $10-15K pilot → $30-50K scale | High-performing (74% math), enrichment angle, NGSS, 8 Gold Ribbon Schools, equity gaps (Hispanic 57%, EL 43%), $112M revenue, Measure O $63M bond |
 | NuView Union SD | 1 - Identified | Erica Williams (TBD - verify email) | Email/phone intro re: STEM Lab + NGSS gap | Feb-Mar 2026 | $5-8K pilot → $8-15K scale | 85% Hispanic, 22% math, 18% science, pre-NGSS Harcourt curriculum, STEM Lab at Mountain Shadows, bilingual imperative |
+| Romoland ESD | 1 - Identified | Dr. Michelle Echiverri (echiverri@romoland.net) | Email/phone intro re: math gap + NGSS | Feb-Mar 2026 | $5-8K pilot → $8-15K scale | 72% Hispanic, 15% math, 92% ED, 30% EL, growing sub-urban district |
+| Banning USD | 1 - Identified | [Ed Services Director TBD] (verify email) | Email/phone intro re: math growth success | Feb-Mar 2026 | $15-25K pilot → $15-30K scale | 75% Hispanic, 15% math, outperformed county/state in growth, K-12 with CTE |
 
 ---
 
@@ -44,14 +46,14 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 11 | $118-605K |
+| Identified | 13 | $148-650K |
 | Contacted | 0 | - |
 | Engaged | 0 | - |
 | Demo | 0 | - |
 | Pilot Proposed | 0 | - |
 | Pilot Active | 0 | - |
 | Won | 0 | - |
-| **Total** | **11** | **$118K-605K** |
+| **Total** | **13** | **$148K-650K** |
 
 ---
 

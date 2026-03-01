@@ -152,11 +152,21 @@ Create a folder at `districts/[district-slug]/` (lowercase, hyphenated, e.g., `f
 3. **`contacts.md`** - All contacts organized by tier:
    - Tier 1: Primary entry points (STEM coordinator, science director)
    - Tier 2: Decision influencers (superintendent, assistant supt.)
-   - Tier 3: Curriculum staff (math director, tech director, academic agents). **Include Executive Assistants / Administrative Assistants** to the Superintendent and/or Asst. Superintendent of Ed Services — these are calendar gatekeepers who control scheduling. Note their name, phone extension, and gatekeeper role.
-   - Tier 4: Other education services leadership
-   - Tier 5: Board members (all with emails, areas, terms)
+   - Tier 3: Curriculum staff (math director, tech director, academic agents, math strategists by grade band). **Include Executive Assistants / Administrative Assistants** to the Superintendent and/or Asst. Superintendent of Ed Services — these are calendar gatekeepers who control scheduling. Note their name, phone extension, and gatekeeper role.
+   - Tier 3B: STEM support staff (community agents, partnership coordinators, secretaries who schedule STEM team meetings)
+   - Tier 4: Middle school principals and assistant principals — these are PILOT SCHOOL CANDIDATES. Include ALL middle schools with principal name, email, phone, and notes on awards/recognition. Middle schools are the highest-impact deployment target because math proficiency drops most dramatically in grades 6-8.
+   - Tier 4B: High school principals — especially schools with CTE, PLTW, MESA, or STEM academies
+   - Tier 4C: Other education services leadership (equity directors, multilingual ed, expanded learning)
+   - Tier 4D: Key school staff (program specialists, department chairs, STEM leads at target pilot schools)
+   - Tier 5: Board members (all with emails, areas, terms, background notes, STEM advocacy indicators)
    - Email pattern analysis
-   - Outreach priority order (numbered, with rationale)
+   - Outreach priority order organized in WAVES (not just numbered):
+     - Wave 1: Initial Contact (Week 1) — science TOSA + math lead + tech director
+     - Wave 2: Executive Buy-In (Week 2) — asst. supt + exec directors
+     - Wave 3: Curriculum Specialists (after Wave 1 response) — math strategists, STEM team
+     - Wave 4: Pilot Schools (after engagement confirmed) — middle school principals, HS STEM leads
+     - Wave 5: Board & Partnership (after staff engagement) — board champions, partnership coordinators
+   - **MINIMUM 20 contacts total** across all tiers. Use Rialto USD (districts/rialto-usd/contacts.md) as the gold standard — ~30 contacts with full details.
 
 4. **`board-meetings.md`** - Board meeting extraction:
    - Meeting index table (2025-present) with agenda and minutes links
@@ -253,7 +263,7 @@ Verify all 9 files exist in `districts/[slug]/`:
 |------|------------------------|---------------------|
 | README.md | 35 | 30 |
 | profile.md | 150 | 100 |
-| contacts.md | 100 | 60 |
+| contacts.md | 200 | 100 |
 | lcap-extract.md | 100 | 70 |
 | board-meetings.md | 60 | 40 |
 | science-curriculum.md | 70 | 50 |

@@ -64,9 +64,9 @@ $BASELINE"
 
     if claude -p "$PROMPT" \
         --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
-        --dangerously-skip-permissions \
+         \
         --model sonnet \
-        --max-budget-usd 2.00 \
+        --max-budget-usd 50.00 \
         --no-session-persistence 2>&1; then
 
         END_TIME=$(date +%s)

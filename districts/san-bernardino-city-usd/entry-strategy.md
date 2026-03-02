@@ -50,13 +50,19 @@
 | # | Name | Title | Leverage Point | Approach |
 |---|------|-------|---------------|----------|
 | 1 | **Dr. Randy Clyde** | Director, S.T.E.A.M. | Dedicated STEAM leader. Computational modeling is his domain | Lead with NGSS modeling gap + NSF credibility |
-| 2 | **Agnes Asiedu Kumi, Ed.D.** | Director, Science | CAST scores, NGSS alignment, science curriculum | Lead with CAST improvement data + NGSS SEP 2/5 |
-| 3 | **Mauricio Arellano** | Superintendent | C-STEM Superintendent of the Year. Vision 2030 | Reference his C-STEM recognition + Vision 2030 alignment |
-| 4 | **Dr. Scott Wyatt** | Board Member | CTE/ROP background. EdTech understanding | Board-level champion. Frame as CTE enhancement tool |
-| 5 | **Felicia Alexander** | Board Member | Caltech Systems Engineering. Aerospace exec | Board-level STEM advocate. She understands modeling |
-| 6 | **Michelle Cleveland** | Director, Ed Tech | Platform approval authority | Must be looped in for any technology adoption |
-| 7 | **Chris Petriccione** | STEAM Specialist (Lead MS) | Lead for all middle schools | Grassroots champion. Can pilot at Del Vallejo |
-| 8 | **Del Vallejo Principal** | STEAM Academy leader | TBD (find name) | School-level pilot sponsor |
+| 2 | **Agnes Asiedu Kumi, Ed.D.** | Director, Science | CAST scores, NGSS alignment, science curriculum K-12 | Lead with CAST improvement data + NGSS SEP 2/5 |
+| 3 | **Michelle Cleveland** | Director, Ed Tech | Platform approval authority | Must be looped in early — required for any technology adoption |
+| 4 | **Ana M. Applegate** | Asst. Superintendent, Ed Services | Approval authority. 30+ yrs institutional knowledge | Approach via warm intro from Clyde or Asiedu Kumi |
+| 5 | **Kimbre Sargent** | Director, Categorical Programs | Title I and LCAP funding. 2025 CAASFEP award | Identify funding vehicle before Applegate asks where money comes from |
+| 6 | **Chris Petriccione** | STEAM Specialist (Lead MS) | Lead for all 10 middle schools, embedded at Del Vallejo | Grassroots champion. His enthusiasm validates the pilot internally |
+| 7 | **Jackie Maner** | Principal, Del Vallejo STEAM Academy | **#1 pilot site** — dedicated district STEAM school | School-level pilot sponsor. Contact after STEAM Director is warm. |
+| 8 | **Dr. Natalie Raymundo** | Principal, Pacific High School | PLTW Biomedical Honors + Linked Learning Gold | **Top HS pilot site.** PLTW Biomedical = direct ModelIt fit for biological systems modeling |
+| 9 | **Jorge DeLaTorre** | Principal, San Gorgonio High | PLTW Biomedical Science + PLTW Engineering (two pathways) | Second HS pilot site. Two PLTW pathways = two ModelIt use cases in one school |
+| 10 | **Angela Quinlan** | PLTW Teacher, Pacific HS | Runs PLTW Biomedical day-to-day | Primary classroom champion after principal buy-in. She would actually deploy ModelIt. |
+| 11 | **Dr. Scott Wyatt** | Board Member | CTE/ROP background. CSBA Master's Governance. 28 yrs educator | Board-level champion. Frame as CTE enhancement and EdTech leadership |
+| 12 | **Felicia Alexander** | Board Member | Caltech Systems Engineering cert. Aerospace exec | Board-level STEM advocate. She understands computational modeling intuitively |
+| 13 | **Sudha Venkatesan, Ed.D.** | Director, College & Career Readiness | Oversees PLTW schools and Linked Learning | Key ally for PLTW-angle pitch at Pacific and San Gorgonio |
+| 14 | **Mauricio Arellano** | Superintendent | C-STEM Superintendent of the Year 2020. Vision 2030 | Reference his C-STEM recognition. Approach only after multi-contact engagement. |
 
 ---
 

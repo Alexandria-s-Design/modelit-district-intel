@@ -10,21 +10,21 @@
 
 | Field | Detail |
 |-------|--------|
-| **Name** | [Director of Educational Services] — NAME TBD |
-| **Title** | Director of Educational Services / Chief Academic Officer |
-| **Email** | TBD |
-| **Phone** | TBD |
-| **Why this person** | Owns curriculum & assessment decisions for K-12 district. Primary buyer for instructional tools. |
+| **Name** | Marcia Cole-Fijabi |
+| **Title** | Director, Instructional Services |
+| **Email** | mcolefijabi@banning.k12.ca.us *(inferred — verify)* |
+| **Phone** | (951) 922-0200 |
+| **Why this person** | Operationally owns curriculum evaluation and program selection under Asst. Supt. Causey-Bush. Fastest path to instructional adoption. Start here. |
 
 ## Secondary Contact
 
 | Field | Detail |
 |-------|--------|
-| **Name** | Terrence Davis |
-| **Title** | Superintendent |
-| **Email** | TBD |
-| **Phone** | TBD |
-| **Why this person** | Final budget authority. Values student achievement and district growth. |
+| **Name** | Dr. Tonia Causey-Bush |
+| **Title** | Assistant Superintendent, Educational Services |
+| **Email** | tcausey-bush@banning.k12.ca.us *(inferred — verify)* |
+| **Phone** | (951) 922-0200 |
+| **Why this person** | Executive approver for all curriculum and instruction decisions. Engage after Cole-Fijabi shows interest. |
 
 ---
 
@@ -52,23 +52,27 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | [Ed Services Director] | Director of Educational Services | Primary curriculum buyer |
-| 2 | Terrence Davis | Superintendent | Budget authority, final approval |
-| 3 | [Asst. Superintendent] | TBD | Champions to Superintendent |
-| 4 | [CBO] | Chief Business Official | Budget authority, identifies funding lines |
-| 5 | Banning High Principal | High School Principal | Grades 9-12 implementation site |
+| 1 | Marcia Cole-Fijabi | Director, Instructional Services | Operational curriculum buyer; fastest path to adoption |
+| 2 | Dr. Tonia Causey-Bush | Asst. Supt., Educational Services | Executive approver; owns all K-12 curriculum decisions |
+| 3 | Steve Barriga | Innovation Technology Officer | Technology platform gatekeeper; must approve new digital tools |
+| 4 | Dr. Cami Thomas | Principal, Nicolet Middle School | Top pilot site ("School to Watch"); can authorize school-level pilot |
+| 5 | Victor Herrera | Asst. Supt., Business Services | Budget authority; identifies Title I + LCFF Supplemental funding |
+| 6 | Art Paz | Principal, Banning High School | CTE + A-G completion pilot; grades 9-12 implementation site |
+| 7 | Terrence Davis | Superintendent | Final budget authority; approach after Causey-Bush alignment |
+| 8 | Mayra Anguiano / Lucia Martinez-Lara | Board Trustees | Equity + bilingual STEM champions on board; 2024 electees |
 
 ---
 
 ## Decision Process
 
 In a K-12 district:
-1. **Director of Ed Services evaluates** → [NAME TBD] reviews ModelIt for curriculum fit and NGSS alignment
-2. **Asst. Superintendent champions** → [NAME TBD] champions to Superintendent for budget support
-3. **Superintendent approves** → Terrence Davis signs off on tool and budget
-4. **CBO confirms funding** → [CBO NAME TBD] identifies Title I, LCFF Supplemental, or Title III funds
-5. **Board approval** → Only if purchase exceeds district threshold
-6. **Implementation** → Banning High School (9-12) and Nicolet/Banning Middle (7-8) as starting points
+1. **Instructional Services Director evaluates** → Marcia Cole-Fijabi reviews ModelIt for curriculum fit and NGSS alignment
+2. **Asst. Superintendent champions** → Dr. Tonia Causey-Bush champions to Superintendent for budget support
+3. **Technology Officer approves platform** → Steve Barriga approves ModelIt for district device ecosystem
+4. **Superintendent approves** → Terrence Davis signs off on tool and budget
+5. **CBO confirms funding** → Victor Herrera + Eddie Ramos identify Title I, LCFF Supplemental, or Title III funds
+6. **Board approval** → Only if purchase exceeds district threshold; route through Edith Valencia (evalencia@banning.k12.ca.us)
+7. **Implementation** → Nicolet Middle ("School to Watch") first, then Banning High (9-12); expand to Florida Street Discovery Center (K-8)
 
 **No formal RFP** expected for a pilot.
 
@@ -76,13 +80,14 @@ In a K-12 district:
 
 ## 5-Phase Approach
 
-### Phase 1: Introduction (Feb-Mar 2026)
+### Phase 1: Introduction (Mar-Apr 2026)
 
 | Action | Detail | Timeline |
 |--------|--------|----------|
-| Email to [Ed Services Director] | Email [ADDRESS TBD] — position ModelIt as math intervention | Feb 2026 |
-| Follow-up call | Phone call to discuss pilot opportunity | Feb-Mar 2026 |
-| Email Superintendent | Email Davis — reference math growth success | Mar 2026 |
+| Email to Marcia Cole-Fijabi | mcolefijabi@banning.k12.ca.us (est.) — position ModelIt as NGSS computational modeling, math reasoning | Mar 2026 |
+| Parallel email to Steve Barriga | sbarriga@banning.k12.ca.us (est.) — Chromebook + Google Workspace fit, NGSS alignment | Mar 2026 |
+| Follow-up call | (951) 922-0200 → ask for Instructional Services; discuss pilot opportunity | Mar-Apr 2026 |
+| Email Dr. Causey-Bush | tcausey-bush@banning.k12.ca.us (est.) — after Cole-Fijabi engagement | Apr 2026 |
 
 ### Phase 2: Demo & Discovery (Mar-Apr 2026)
 
@@ -123,7 +128,7 @@ In a K-12 district:
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|-----------|
-| [Ed Services Director] doesn't respond | Medium | High | Call Superintendent directly. District has proven openness to interventions (math growth). |
+| Cole-Fijabi doesn't respond | Medium | High | Call (951) 922-0200 → ask for Instructional Services. Escalate to Dr. Causey-Bush directly. |
 | Budget too tight (below median per-pupil) | High | Medium | Position within Title I or LCFF Supplemental — earmarked funds. $15-25K pilot is minimal. |
 | 15.3% math = "we need basic intervention" | Medium | Medium | Frame ModelIt as applied math, not another worksheet program. Students build models of real systems. |
 | Science curriculum adoption unknown | Medium | Medium | Position ModelIt as NGSS bridge regardless of core curriculum. Complements, doesn't replace. |
@@ -154,7 +159,7 @@ In a K-12 district:
 | Bilingual usage | ≥30% of models built in Spanish | Platform analytics |
 | Math impact | Teacher-reported math engagement increase | Survey |
 | CTE enhancement | ≥1 CTE pathway uses ModelIt | Teacher report |
-| Reorder intent | [Ed Services Director] commits to Year 2 | Direct conversation |
+| Reorder intent | Dr. Causey-Bush commits to Year 2 | Direct conversation |
 
 ---
 
@@ -162,8 +167,8 @@ In a K-12 district:
 
 | Date | Event | Action |
 |------|-------|--------|
-| Feb 2026 | Email window | Email [Ed Services Director] |
-| Mar 2026 | Site visit | Banning High demo |
+| Mar 2026 | Email window | Email Cole-Fijabi + Barriga |
+| Apr 2026 | Site visit | Nicolet Middle + Banning High demo |
 | Apr 2026 | LCAP input period | Request presentation |
 | Jun 2026 | LCAP/budget approval | Pilot proposal ready |
 | Aug 2026 | School year starts | Teacher training |

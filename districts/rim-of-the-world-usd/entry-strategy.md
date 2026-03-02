@@ -1,6 +1,6 @@
 # Rim of the World Unified School District - Entry Strategy
 
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-03-02
 **Pipeline Stage**: 1 - Identified
 **District Type**: Medium K-12 mountain community (2,877 students)
 
@@ -64,13 +64,19 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Jennifer Whiteside | Director, Educational Services | Curriculum authority. Math/science improvement is her mandate. |
-| 2 | Stephanie Phillips | CTE Coordinator | 30+ years at Rim, manages CTE funding. Fire Science + Construction = ModelIt. |
-| 3 | Dr. Paul Sevillano | Superintendent | USC Ed.D., evidence-based, Measure E champion. Final budget authority. |
-| 4 | Jordana Ridland | Board Member (Area 2) | Former math teacher, MA in Ed Tech from APU, small business owner. Natural product champion. |
-| 5 | Brian Keaney | Principal, Rim HS | Building-level decision maker for HS implementation. |
-| 6 | Terry Gomes | Principal, Mary Henck Intermediate | Middle school is the critical math gap (12% proficiency). |
-| 7 | Cindy Gardner | Board President | Board-level awareness for formal approvals. |
+| 1 | Jennifer Whiteside | Director, Educational Services | Curriculum authority. Math/science improvement is her mandate. Evaluates and recommends all instructional tools. |
+| 2 | Stephanie Phillips | CTE Coordinator (30+ years) | Manages CTE funding (Perkins V, CTEIG). Fire Science + Construction = ModelIt's most direct CTE pitch anywhere. |
+| 3 | Mark Malone | Director of Technology Services | Must approve any new digital platform. 8,000+ devices. Proactive technical outreach avoids a procurement bottleneck later. |
+| 4 | Dr. Paul Sevillano | Superintendent | USC Ed.D., evidence-based, Measure E champion. Final budget authority. 2 years in = actively building his program legacy. |
+| 5 | Jordana Ridland | Board Member, Area 2 | **GOLDEN CONTACT.** Former Rim math teacher, MA in Ed Tech (APU), Fortune 200 tech PM/TM, ETS math specialist. Understands the classroom, the technology, the ROI, and the board vote. Cultivate in parallel with district staff, not after. |
+| 6 | Jordan Zarate | Board Member, Area 5 | CEO of Digital Mountaineers, 13+ years in tech program management and data analytics. Will evaluate ModelIt with genuine technical sophistication. Natural second board champion for the computational thinking angle. |
+| 7 | Scott Craft | Board Member, Area 4 | Retired 33-year ROWUSD teacher/coach, licensed general contractor, CTE advocate. If ModelIt is in Construction Trades, Craft is the third board voice. Ridland + Zarate + Craft = board majority before the vote is called. |
+| 8 | Terry Gomes | Interim Principal, Mary Henck Intermediate | Middle school is the critical math gap (~12% proficiency). Interim status creates motivation for quick, visible results. Top pilot site. |
+| 9 | Brian Keaney | Principal, Rim of the World HS | 4th-year principal. CTE programs and science department report through him. Can approve campus-level pilots without district office sign-off. |
+| 10 | Kaylee Bunyea | ELOP Coordinator | California Expanded Learning Innovative Leadership Award winner. Controls ELOP budget (separate from instructional). Alternative funding pathway for elementary pilot. |
+| 11 | Shannon Hansen | Asst. Supt., Personnel & Pupil Services | Secondary approver for programs affecting staff time and PD. Loop in once Whiteside has engaged to prevent HR-side blockers. |
+| 12 | Jo Bonita Rains | Foundation President | Controls ~$750K in cumulative grants, including CTE (since 2015) and AVID (since 2009). Foundation pilot grant bypasses district procurement entirely. |
+| 13 | Cindy Gardner | Board President, Area 3 | Board-level formal approval authority. Also sits on Foundation board — one relationship opens both pathways. Engage after pilot proposal is in motion. |
 
 ---
 

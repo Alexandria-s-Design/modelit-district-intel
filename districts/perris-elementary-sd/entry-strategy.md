@@ -1,30 +1,30 @@
 # Perris Elementary School District - Entry Strategy
 
-**Last Updated**: 2026-02-12
+**Last Updated**: 2026-03-02
 **Pipeline Stage**: 1 - Identified
-**District Type**: Small rural K-6 elementary district (5,538 students)
+**District Type**: K-8 elementary district (5,538 students, 9 schools)
 
 ---
 
-## Primary Contact
+## Primary Contacts
 
-| Field | Detail |
-|-------|--------|
-| **Name** | Kelly Pebly |
-| **Title** | Principal, Perris Elementary |
-| **Email** | kpebly@perrisesd.org |
-| **Phone** | (951) 657-2124 |
-| **Why this person** | Principal of largest elementary school with ~700 students. Controls instruction for 25% of district enrollment. School-level principal is key buyer for elementary districts. |
+| Field | Contact 1 | Contact 2 | Contact 3 |
+|-------|-----------|-----------|-----------|
+| **Name** | Rosa Farfan | Jennifer Hunter | Kelly Pebly |
+| **Title** | Principal, Clearwater Elementary (STEAM) | Principal, Railway School of Math, Science & Technology | Principal, Perris Elementary |
+| **Email** | rfarfan@perrisesd.org *(est.)* | jhunter@perrisesd.org *(est.)* | kpebly@perrisesd.org ✅ |
+| **Phone** | (951) 423-2016 | (951) 943-3259 | (951) 657-2124 |
+| **Why this person** | Leads STEAM campus — ModelIt's strongest institutional alignment in district | Leads Math/Science/Tech school — STEM mandate matches ModelIt mission directly | Largest school (~700 students). Confirmed email. Strong supt. relationship. |
 
-## Secondary Contact
+## Secondary Contacts
 
-| Field | Detail |
-|-------|--------|
-| **Name** | Bruce Bivins |
-| **Title** | Superintendent |
-| **Email** | TBD |
-| **Phone** | (951) 657-3118 |
-| **Why this person** | Final budget authority. Appointed July 2023, leading district through 2025-26 school year. |
+| Field | Contact 1 | Contact 2 |
+|-------|-----------|-----------|
+| **Name** | Dr. Jason Angle | Bruce Bivins |
+| **Title** | Assistant Superintendent, Educational Services | Superintendent |
+| **Email** | jangle@perrisesd.org *(est.)* | bbivins@perrisesd.org *(est.)* |
+| **Phone** | (951) 657-3118 | (951) 657-3118 |
+| **Why this person** | Owns curriculum decisions district-wide. Key gatekeeper — warm principal intro required. | Final budget authority. Appointed July 2023. Approach after Angle is engaged. |
 
 ---
 
@@ -52,22 +52,29 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Kelly Pebly | Principal, Perris Elementary | Controls instruction for ~700 students. Primary buyer for school-level tools. |
-| 2 | Bruce Bivins | Superintendent | Budget authority, final approval |
-| 3 | [Assistant Superintendent] | TBD | [NEEDS VERIFICATION] — Champions to Superintendent |
-| 4 | [Chief Business Official] | TBD | [NEEDS VERIFICATION] — Budget authority, identifies funding lines |
-| 5 | [North Elementary Principals] | TBD | [NEEDS VERIFICATION] — Grades 5-6 expansion in Year 2 |
+| 1 | Rosa Farfan | Principal, Clearwater Elementary (STEAM Campus) | Leads district's designated STEAM campus — institutional mandate aligns with ModelIt mission. Strongest entry point. |
+| 2 | Jennifer Hunter | Principal, Railway School of Math, Science & Technology | Leads district's Math/Science/Tech school — ModelIt is a direct fit. Can champion up to Angle and Bivins. |
+| 3 | Kelly Pebly | Principal, Perris Elementary | Controls instruction for ~700 students (25% of district). Confirmed email. Primary buyer for school-level tools. |
+| 4 | Dr. Jason Angle | Asst. Superintendent, Educational Services | Owns curriculum decisions district-wide. Key gatekeeper for any instructional tool adoption. Warm principal intro required. |
+| 5 | Bruce Bivins | Superintendent | Final budget authority. Approach after Angle and at least one principal are engaged. |
+| 6 | Francine Story | Chief Business Official | Identifies funding lines (Title I, LCFF Supplemental). Controls payment structure. Approach with Bivins. |
+| 7 | Andrew Candelaria | Principal, Innovative Horizons Charter (K-8) | Charter autonomy = fastest pilot approval path. Can move without full district procurement process. |
+| 8 | Carol Jimenez | Board Clerk + District Staff (Child Development) | Dual insider role as both elected trustee and district employee. Uniquely powerful champion. |
+| 9 | Cody Horner | Director, Technology | EdTech platform approvals. Must clear Chromebook compatibility and FERPA compliance before purchase. Early outreach recommended. |
+| 10 | Rebecca Taua'i, Renee Carbajal, Jennifer Wright, Catalina Chrest | Principals (Good Hope, Enchanted Hills, Palms, Sky View) | Year 2 expansion targets once first pilot is established at Railway or Clearwater. |
 
 ---
 
 ## Decision Process
 
-In a small K-6 elementary district:
-1. **School Principal evaluates** → Principal reviews ModelIt for school-level fit
-2. **Superintendent approves** → Bruce Bivins signs off on tool and budget
-3. **CBO confirms funding** → [CBO NAME TBD] identifies Title I, LCFF Supplemental, or Title III funds
-4. **Board approval** → Only if purchase exceeds district threshold
-5. **Implementation** → Perris Elementary School (grades 5-6) as starting point, expand to other schools in Year 2
+In a small K-8 elementary district:
+1. **School Principal evaluates** → Rosa Farfan (Clearwater STEAM) or Jennifer Hunter (Railway Math/Science/Tech) reviews ModelIt for school-level fit
+2. **Asst. Superintendent reviews** → Dr. Jason Angle (Educational Services) champions to superintendent
+3. **Superintendent approves** → Bruce Bivins signs off on tool and budget
+4. **CBO confirms funding** → Francine Story (CBO) identifies Title I, LCFF Supplemental, or Title III funds
+5. **Tech Director clears** → Cody Horner approves platform for Chromebook/Google Workspace compatibility
+6. **Board approval** → Only if purchase exceeds district threshold (~$10K or per board policy)
+7. **Implementation** → Railway or Clearwater as starting point (STEM mandate); Innovative Horizons Charter as parallel fast-track; expand to remaining schools in Year 2
 
 **No formal RFP** expected for a small pilot.
 
@@ -75,21 +82,25 @@ In a small K-6 elementary district:
 
 ## 5-Phase Approach
 
-### Phase 1: Introduction (Feb-Mar 2026)
+### Phase 1: Introduction (Mar-Apr 2026)
 
 | Action | Detail | Timeline |
 |--------|--------|----------|
-| School visit | Visit Perris Elementary, meet Principal Pebly | Feb-Mar 2026 |
-| Demo for Principal Pebly | Show math models, NGSS alignment | Same visit |
-| Bilingual demo | Show Spanish-language modeling | Same visit |
+| Email outreach — Wave 1 | Email Rosa Farfan (Clearwater STEAM) + Jennifer Hunter (Railway Math/Science/Tech) + Kelly Pebly with personalized hooks | Mar 2026 |
+| School visits | Visit Clearwater and Railway campuses; demo ModelIt for principals | Mar-Apr 2026 |
+| Tech Director outreach | Email Cody Horner (Tech Director) with FERPA/Chromebook compatibility overview | Mar 2026 |
+| Bilingual demo | Show Spanish-language modeling interface at every visit | All visits |
+| Innovative Horizons Charter contact | Parallel outreach to Andrew Candelaria — charter autonomy = fast-track pilot | Mar 2026 |
 
 ### Phase 2: Pilot Proposal (Apr-May 2026)
 
 | Action | Detail | Timeline |
 |--------|--------|----------|
-| Written proposal | 1-page pilot targeting grades 5-6, NGSS-aligned | Apr 2026 |
-| Budget proposal | $4-6K for Perris Elementary, $7-12K district-wide | May 2026 |
-| LCFF integration | Position within unduplicated pupil funding | May 2026 |
+| Asst. Superintendent engagement | Warm intro to Dr. Jason Angle via principal champion; present ModelIt curriculum alignment | Apr 2026 |
+| Written proposal | 1-page pilot targeting Railway or Clearwater (STEM campuses), grades 4-6, NGSS-aligned | Apr 2026 |
+| CBO meeting | Present budget proposal to Francine Story — Title I set-aside + LCFF Supplemental pathway | May 2026 |
+| Budget proposal | $4-6K for first pilot site (Railway or Clearwater); $7-12K district-wide | May 2026 |
+| LCFF integration | Position within unduplicated pupil funding given 83.7% ED rate | May 2026 |
 
 ### Phase 3: Pilot Implementation (Aug-Dec 2026)
 
@@ -114,7 +125,7 @@ In a small K-6 elementary district:
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|-----------|
-| Principal Pebly doesn't respond to email | Medium | High | Call Superintendent directly. Small district = leadership is accessible. |
+| Principal Pebly doesn't respond to email | Medium | Medium | Pivot to Farfan (Clearwater STEAM) or Hunter (Railway Math/Science/Tech) — two alternative Tier 1 entries now identified. |
 | Budget too tight (below median per-pupil) | High | Medium | Position within Title I or LCFF Supplemental — earmarked funds. $4-6K pilot is minimal. |
 | 83.7% ED = "we need basic intervention" | Medium | Medium | Frame ModelIt as applied math, not another worksheet program. Students build models of real systems. |
 | Science curriculum adoption unknown | Medium | Medium | Position ModelIt as NGSS bridge regardless of core curriculum. Complements, doesn't replace. |

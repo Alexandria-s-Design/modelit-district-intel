@@ -1,6 +1,6 @@
 # ModelIt District Sales Pipeline
 
-**Last Updated**: 2026-03-02 (Wave 8: Brawley Elementary SD — Imperial Valley, highest CDE priority score 95/100)
+**Last Updated**: 2026-03-02 (Wave 9: Calexico USD — Imperial Valley, CDE priority score 95/100, greenfield science curriculum, bilingual border community)
 
 ---
 
@@ -41,6 +41,7 @@
 | Banning USD | 1 - Identified | [Ed Services Director TBD] (verify email) | Email/phone intro re: math growth success | Feb-Mar 2026 | $15-25K pilot → $15-30K scale | 75% Hispanic, 15% math, outperformed county/state in growth, K-12 with CTE |
 | Carlsbad USD | 1 - Identified | Ashley Crawford (acrawford@carlsbadusd.net) | Send intro email — NGSS SEP-2 + STEAM lab + EL science gap hook | Mar 2026 | $10-25K pilot → $50K+ scale | 55% White, 61.6% math (EL gap 19.2% science), Measure HH $265M STEAM labs, PLTW Distinguished, new Supt June 2025 |
 | Brawley Elementary SD | 1 - Identified | Victor Ramirez (vramirez@besd.org — verify) | Send intro email — 1.61% EL science + Padilla-Pace MS greenfield + bilingual platform | Mar 2026 | $5-10K pilot → $25-50K scale | 95% Hispanic, 39% EL, 12.93% science, 1.61% EL science, new Padilla-Pace MS (2024), NO science curriculum vendor, Supt = former Dir. Instructional Tech, CDE priority 95/100 |
+| Calexico USD | 1 - Identified | Korina Tabarez (ktabarez@cusdk12.org) | Send intro email — 12.87% CAST science + 60% Nearly Met + bilingual + Measure Q STEM buildings hook | Mar 2026 | $10-15K pilot → $75-120K scale | 99% Hispanic, 8.8% EL, 12.87% science, 60% Nearly Met at every grade, NO confirmed science vendor (greenfield), $47M Measure Q STEM buildings at CHS, bilingual platform fit, CDE priority 95/100 |
 
 ---
 
@@ -49,14 +50,14 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 16 | $213-1,000K |
+| Identified | 17 | $223-1,120K |
 | Contacted | 0 | - |
 | Engaged | 0 | - |
 | Demo | 0 | - |
 | Pilot Proposed | 0 | - |
 | Pilot Active | 0 | - |
 | Won | 0 | - |
-| **Total** | **15** | **$208K-950K** |
+| **Total** | **17** | **$223K-1,120K** |
 
 ---
 

@@ -1,6 +1,6 @@
 # ModelIt District Sales Pipeline
 
-**Last Updated**: 2026-03-01 (Wave 7: Carlsbad USD — first San Diego coastal district)
+**Last Updated**: 2026-03-02 (Wave 8: Brawley Elementary SD — Imperial Valley, highest CDE priority score 95/100)
 
 ---
 
@@ -40,6 +40,7 @@
 | Romoland ESD | 1 - Identified | Dr. Michelle Echiverri (echiverri@romoland.net) | Email/phone intro re: math gap + NGSS | Feb-Mar 2026 | $5-8K pilot → $8-15K scale | 72% Hispanic, 15% math, 92% ED, 30% EL, growing sub-urban district |
 | Banning USD | 1 - Identified | [Ed Services Director TBD] (verify email) | Email/phone intro re: math growth success | Feb-Mar 2026 | $15-25K pilot → $15-30K scale | 75% Hispanic, 15% math, outperformed county/state in growth, K-12 with CTE |
 | Carlsbad USD | 1 - Identified | Ashley Crawford (acrawford@carlsbadusd.net) | Send intro email — NGSS SEP-2 + STEAM lab + EL science gap hook | Mar 2026 | $10-25K pilot → $50K+ scale | 55% White, 61.6% math (EL gap 19.2% science), Measure HH $265M STEAM labs, PLTW Distinguished, new Supt June 2025 |
+| Brawley Elementary SD | 1 - Identified | Victor Ramirez (vramirez@besd.org — verify) | Send intro email — 1.61% EL science + Padilla-Pace MS greenfield + bilingual platform | Mar 2026 | $5-10K pilot → $25-50K scale | 95% Hispanic, 39% EL, 12.93% science, 1.61% EL science, new Padilla-Pace MS (2024), NO science curriculum vendor, Supt = former Dir. Instructional Tech, CDE priority 95/100 |
 
 ---
 
@@ -48,7 +49,7 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 15 | $208-950K |
+| Identified | 16 | $213-1,000K |
 | Contacted | 0 | - |
 | Engaged | 0 | - |
 | Demo | 0 | - |

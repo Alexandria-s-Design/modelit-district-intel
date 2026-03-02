@@ -1,8 +1,8 @@
 # Bear Valley Unified School District - Entry Strategy
 
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-03-02
 **Pipeline Stage**: 1 - Identified
-**District Type**: Small K-12 mountain community (2,132 students)
+**District Type**: Small K-12 mountain community (2,132 students, 7 schools)
 
 ---
 
@@ -64,12 +64,16 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Leigh Anne Drake | Exec Dir TK-6 C&I | BEARTECH expansion leader. ModelIt = computational layer for BEARTECH. |
-| 2 | Brian Willemse | Exec Dir 6-12 C&I | Owns the HS math collapse problem. ModelIt as 6-12 math intervention. |
-| 3 | Dr. Stephen Foulkes | Board President | PhD Experimental Particle Physics (UC Riverside). Understands computational modeling personally. Warmest possible champion. |
+| 1 | Leigh Anne Drake | Exec Dir TK-6 C&I | BEARTECH expansion leader. ModelIt = computational layer for BEARTECH. Primary K-6 buyer. |
+| 2 | Brian Willemse | Exec Dir 6-12 C&I | Owns the HS math collapse problem. ModelIt as 6-12 math intervention. Primary 6-12 buyer. |
+| 3 | Dr. Stephen Foulkes | Board President | PhD Experimental Particle Physics (UC Riverside). Understands computational modeling personally. Warmest possible champion — approach after staff engagement is warm. |
 | 4 | Manuel "Manny" Marquez | Superintendent | 24-year BVUSD insider, new superintendent. Accessible, trusted, final budget authority. |
-| 5 | McKenzie Wolf | Science Dept Lead, BBHS | Building-level science champion for HS implementation. |
-| 6 | Ashley Garza | Math Dept Lead, BBHS | Math instruction at the grade band with worst proficiency. |
+| 5 | Dena Arbaugh | Principal, Big Bear Middle School | **THE pilot school gatekeeper.** Only middle school in district — her buy-in = all grades 6–8. Top deployment target. |
+| 6 | Tina Fulmer | Principal, Big Bear High School | 25-year BVUSD insider. Controls access to BBHS classrooms. Warm intro via Wolf/Garza. |
+| 7 | McKenzie Wolf | Science Dept Lead, BBHS | Building-level science champion. Classroom validator for HS implementation. |
+| 8 | Ashley Garza | Math Dept Lead, BBHS | Math crisis owner. 18% HS proficiency is her department's problem. Natural advocate if ModelIt helps. |
+| 9 | Mike Chatham | Director of IT | Technology clearance gatekeeper. Proactively share tech specs and FERPA/COPPA docs early. |
+| 10 | Scott Waner | Principal, Big Bear Elementary | BEARTECH was born at BBES. ModelIt as computational extension of the program he's lived since 2016. |
 
 ---
 
@@ -78,11 +82,13 @@
 Small unified district with an insider superintendent — decisions are relationship-driven:
 
 1. **Executive Directors evaluate** → Leigh Anne Drake (TK-6) and Brian Willemse (6-12) assess ModelIt for their grade bands
-2. **Superintendent endorses** → Manny Marquez supports the tool (24-year insider = community trust)
-3. **Board President advocates** → Dr. Foulkes (PhD Physics) champions computational modeling at board level
-4. **CBO confirms funding** → Budget officer identifies funding line (Title I, LCFF, Foundation)
-5. **Board approval** → Only if purchase exceeds district threshold
-6. **Implementation** → MS/HS science and math teachers, plus BEARTECH integration at elementary
+2. **School principals greenlight pilot** → Dena Arbaugh (BBMS) and Tina Fulmer (BBHS) authorize classroom access; Arbaugh's yes = all of grades 6–8
+3. **Superintendent endorses** → Manny Marquez supports the tool (24-year insider = community trust); warm intro from Drake/Willemse ideal
+4. **IT clears the platform** → Mike Chatham approves tech stack; send specs proactively before the proposal stage
+5. **Board President advocates** → Dr. Foulkes (PhD Physics) champions computational modeling at board level after staff engagement is warm
+6. **CBO confirms funding** → Jesica Rawlings (CBO) identifies funding line (Title I, LCFF, Education Trust Foundation)
+7. **Board approval** → Only if purchase exceeds district threshold; Dr. Foulkes has unique ability to explain ModelIt's value to other board members
+8. **Implementation** → BBMS science/math first, then BBHS, then BEARTECH integration at elementary
 
 **No RFP process** expected for a pilot. Superintendent and Executive Directors have authority for instructional material purchases in a district this size.
 

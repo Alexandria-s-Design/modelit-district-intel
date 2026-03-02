@@ -1,6 +1,6 @@
 # San Pasqual Union Elementary School District - Entry Strategy
 
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-03-02
 **Pipeline Stage**: 1 - Identified
 **District Type**: Small rural K-8 single-school district (548 students)
 
@@ -53,12 +53,16 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Mark Burroughs | Superintendent/Principal | THE decision maker. 20-year district veteran. If he says yes, it happens. |
-| 2 | Jenny Lynch | MS STEM Teacher | Direct classroom user. Will be the one implementing ModelIt. Her enthusiasm drives adoption. |
-| 3 | Amy Cutchin | MS STEM Teacher | Second STEM teacher. Two-teacher consensus is powerful in a small school. |
-| 4 | Jolene Mallory | MS Science Teacher | Science instruction alignment. Can validate NGSS Practice 2 & 5 connection. |
-| 5 | Kristin DiNofia | CBO/Director of Finance | Knows which budget lines have room. Can identify and allocate funds. |
-| 6 | Kami Goe | Board President | Board awareness helps if formal approval is needed for vendor contracts. |
+| 1 | Mark Burroughs | Superintendent/Principal | THE decision maker. 20-year district veteran. If he says yes, it happens within weeks. |
+| 2 | Jenny Lynch | MS STEM Teacher | Primary classroom user. Will implement ModelIt in STEM classes. Her enthusiasm is the fastest path to Burroughs' yes. |
+| 3 | Amy Cutchin | MS STEM Teacher | Second STEM teacher. Two-teacher consensus is powerful in a small school — combined voice is harder to dismiss. |
+| 4 | Jolene Mallory | MS Science Teacher | Science instruction alignment. Can validate NGSS Practice 2 & 5 connection and the Zoo Safari Park hook directly. |
+| 5 | Kim Read-Smith | VAPA Coordinator / MS Humanities | **Golden Bell Award winner** — high credibility with Burroughs and board. Cross-disciplinary voice that bridges STEM and arts. Her endorsement carries outsized weight. |
+| 6 | Kelly Mayberry | SPU Foundation Executive Director | **Key budget pathway.** Controls Foundation grant allocations. Saints Soirée 2026 cycle is the fastest funding route — no district procurement process required. |
+| 7 | Steven Bostrom Jr. | Director of Operations / SAGE Garden Advisor | SAGE Garden connection. A ModelIt unit built on real garden data (plant growth, water, yield) is a uniquely compelling use case that directly extends an existing district program. |
+| 8 | Kristin DiNofia | CBO/Director of Finance | Knows which budget lines have room. Can identify Title IV-A SSAE or LCFF Supplemental funds for Year 2 after Foundation covers Year 1 pilot. |
+| 9 | Megan Mueller | MS Math Teacher | Math proficiency gap (55% below standard) — ModelIt's quantitative modeling angle. Natural co-champion with the STEM teachers. |
+| 10 | Kami Goe | Board President | Board awareness helps if formal approval is needed for vendor contracts. Cultivate after Burroughs is on board. |
 
 ---
 

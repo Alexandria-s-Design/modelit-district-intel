@@ -64,14 +64,22 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Dolly Bergen | STEAM & K-12 Science Coordinator | STEM curriculum authority. Evaluates all STEM tools. NGSS implementation lead. |
-| 2 | Kim Lawe, Ed.D. | Sr. Director, Career Readiness & Workforce Dev. | CTE budget authority. 22 pathways, multiple STEM-aligned. Separate funding stream. |
+| 1 | Dolly Bergen | STEAM & K-12 Science Coordinator | STEM curriculum authority. Evaluates all STEM tools. NGSS implementation lead. **Primary entry point.** |
+| 2 | Kim Lawe, Ed.D. | Sr. Director, Career Readiness & Workforce Dev. | CTE budget authority. 22 pathways, multiple STEM-aligned. Separate CTEIG/Perkins/SWP funding stream. |
 | 3 | Dr. Alejandro Alvarez | Superintendent, Rialto USD (WARM) | Former Fontana career educator. Can introduce to current leadership. Two-district opportunity. |
-| 4 | Danielle Holley | Board Member, Area 4 | Former FUSD teacher, MA in Curriculum & Instruction, Fontana Chamber Exec Dir. Potential board champion. |
-| 5 | Glenn Alegre | Chief Technology Officer | Former K-12 math teacher. Tech platform approvals. Understands math problem firsthand. |
-| 6 | Christopher Hollister, Ed.D. | Interim Assoc. Supt., Teaching & Learning | Curriculum authority (INTERIM -- watch for permanent hire). |
-| 7 | Miki R. Inbody | Superintendent | Final authority. FUSD alumna. Community-focused. Approach after grassroots support. |
-| 8 | Kimberly MacKinney, Ed.D. | Exec. Director, Secondary Schools (6-12) | Oversees all 7 middle + 5 high schools. Math intervention decisions at MS level. |
+| 4 | **Anne-Marie Cabrales** | **Founding Principal, Oak Grove Preparatory Academy** | **NEW — HIGHEST PRIORITY.** Building 7–12 STEM school from scratch, opening Aug 2026. Curriculum still being set. Maximum authority, maximum openness. Window is now. |
+| 5 | **Amber Knight** | **Principal, Southridge Tech MS** | **NEW.** Microsoft Showcase School (3×), IB MYP, California Schools to Watch. #1 middle school pilot candidate. |
+| 6 | **Dr. John Richmond** | **Principal, Summit High School** | **NEW.** Hosts Innovation Empire makerspace + district STEM Showcase. Mechatronics/Robotics, Engineering Design, Cybersecurity pathways. #1 HS pilot candidate. |
+| 7 | **Brittney Davis-Fox** | **Interim Principal, Sequoia MS** | **NEW.** National Schools to Watch (8 yrs), National AVID Demo School (7 yrs), DLI program. #2 MS pilot candidate. |
+| 8 | **Dr. Kristen Sandler** | **Principal, Truman MS** | **NEW.** District EL reclassification leader (2 consecutive years). After-school STEM Club = ready-made no-friction pilot site. |
+| 9 | Danielle Holley | Board Member, Area 4 | Former FUSD teacher, MA in Curriculum & Instruction, Fontana Chamber Exec Dir. Primary board champion. Term through 2028. |
+| 10 | Glenn Alegre | Chief Technology Officer | Former K-12 math teacher. Tech platform approvals. Understands math problem firsthand. |
+| 11 | Kimberly MacKinney, Ed.D. | Exec. Director, Secondary Schools (6-12) | Oversees all 7 middle + 5 high schools. Gateway to principal-level pilots. |
+| 12 | Christopher Hollister, Ed.D. | Interim Assoc. Supt., Teaching & Learning | Curriculum authority (INTERIM — contact now before permanent hire changes dynamics). |
+| 13 | Angel Ramirez | Board President, Area 3 | Most CTE/STEM-vocal board member. Explicitly cites CTE pathway strengthening as priority. Secondary board champion. |
+| 14 | **Joseph Malatesta** | **Principal, Fontana HS** | **NEW.** Bio-Animatronics/Neuro Prosthetics program (world-unique). Came from Summit HS culture. |
+| 15 | **Antonio Viramontes** | **Principal, Jurupa Hills HS** | **NEW.** FUSD's only IB school. IB "Systems and system models" key concept = direct ModelIt alignment. |
+| 16 | Miki R. Inbody | Superintendent | Final authority. FUSD alumna. Approach AFTER Bergen, Lawe, principals, and board champions are engaged. |
 
 ---
 

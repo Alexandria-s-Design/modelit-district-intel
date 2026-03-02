@@ -149,11 +149,15 @@
 | Person | Title | Leverage Point |
 |--------|-------|---------------|
 | Korina Tabarez | Coordinator, Academics & Instruction | Direct curriculum decision-maker; start here |
-| Esmeralda Garcia | Director, Expanded Learning | After-school STEM budget; quick pilot entry |
-| Diego Romero | Principal, Camarena Jr. High | Grade 8 pilot school; data-driven CAST ROI story |
+| Esmeralda Garcia | Director, Expanded Learning | After-school STEM budget; quick pilot entry via SPARKs |
+| Diego Romero | Principal, Camarena Jr. High | Grade 8 primary pilot school; data-driven CAST ROI story |
+| Isaura Badillo | Principal, William Moreno Jr. High | Grade 8 secondary pilot; 2nd Annual Parent Summit = strong community engagement |
+| Brisa Huerta-Price | Director, State & Federal Projects | Title IV-A funding gateway — structure pilot invoice to tap existing federal allocation |
+| Sylvia Yanez | Coordinator, ELL Services | Bilingual UI differentiator; EL science gap internal advocate |
 | Arturo Jimenez | Superintendent | Bilingual/equity angle; Measure Q alignment; personal community connection |
-| Michael Castillo | Board Trustee | ICOE Early Childhood Ed background; education-focused board champion |
-| Alejandra Limon | Foundation Director | Calexico Ed Foundation grants + robotics team connection |
+| Alex Aviña | Board Trustee (VP) | Active elementary principal, parent of 4 CHS graduates — strongest education voice on board |
+| Michael Castillo | Board Trustee | ICOE Senior Director ECE; highest education credibility on board |
+| Alejandra Limon | Foundation Director | Calexico Ed Foundation grants + Unimatics Robotics team connection |
 
 ---
 

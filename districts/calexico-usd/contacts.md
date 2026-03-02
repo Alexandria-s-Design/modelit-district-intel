@@ -4,7 +4,7 @@
 **Email Pattern**: `flast@cusdk12.org` — 91% confirmed via LeadIQ
 **Domain**: cusdk12.org
 **Main Office**: (760) 768-3888 | 901 Andrade Ave, Calexico, CA 92231
-**Total Contacts**: 25+
+**Total Contacts**: 31
 
 ---
 
@@ -150,6 +150,36 @@
 
 ---
 
+## Tier 3B: Federal Programs & ELL Leadership — BUDGET PATHWAY CONTACTS
+
+### Brisa Huerta-Price — FEDERAL FUNDING GATEWAY
+| Field | Value |
+|-------|-------|
+| Title | Director, State and Federal Projects |
+| Department | Educational Services |
+| Email | bhuerta@cusdk12.org |
+| Phone | (760) 768-3888 ext. 3014 |
+| Role in Decision | Manages ALL categorical/federal funding: Title I, Title IV-A, LCAP implementation, Migrant Ed oversight, and state programs — every edtech dollar routed through federal funds goes through this office |
+| STEM Champion? | Budget ally — controls Title IV-A funds that explicitly cover edtech purchases for academic enrichment |
+| Background | Confirmed via CUSD State & Federal Projects department page; oversees the district's full federal grants portfolio |
+| Notes | **CRITICAL BUDGET CONTACT** — Title IV-A is the recommended funding pathway for ModelIt. Contact after Tabarez/Ramirez engagement to structure invoicing correctly. Pitch: "We'd like to ensure the pilot agreement is structured so it can be funded through your Title IV-A allocation — zero new budget required." |
+| Source | cusdk12.org — State & Federal Projects department page |
+
+### Sylvia Yanez — MULTILINGUAL ED / ELL ENTRY POINT
+| Field | Value |
+|-------|-------|
+| Title | Coordinator, English Language Learner Services |
+| Department | Educational Services |
+| Email | syanez@cusdk12.org |
+| Phone | (760) 768-3888 ext. 3054 |
+| Role in Decision | Manages all ELL/multilingual programming; ~8.8% of enrollment (~550 students) are active English Learners; coordinates ELPAC, reclassification, and EL academic support services |
+| STEM Champion? | Equity champion — ModelIt's English/Spanish bilingual interface directly serves her student population |
+| Background | Confirmed via CUSD ELL Services department page |
+| Notes | Unique pitch angle: ModelIt is the only NGSS computational modeling platform with a bilingual English/Spanish UI — directly addresses the EL science achievement gap. Yanez is the internal advocate for any tool that supports ELs in content area courses. Reference the district's 99% Hispanic enrollment and border community identity. |
+| Source | cusdk12.org — ELL Services department page |
+
+---
+
 ## Tier 4: Middle School Principals — PILOT SCHOOL CANDIDATES
 
 ### Diego Romero — ENRIQUE CAMARENA JR. HIGH
@@ -177,6 +207,43 @@
 | CAST Grade 8 | ~14.09% met/exceeded; 58% Nearly Met |
 | Notes | **SECONDARY PILOT TARGET** — 2nd Annual Parent Summit hosted here (Jan. 2025), showing strong community engagement. Strong partner for a family-facing ModelIt demo event. |
 | Source | CDE School Directory, Calexico Chronicle |
+
+---
+
+## Tier 4A: Assistant Principals — Pilot School Logistics
+
+### Zuilma Rioseco — AP, CALEXICO HIGH SCHOOL
+| Field | Value |
+|-------|-------|
+| Title | Assistant Principal |
+| School | Calexico High School (Main Campus) |
+| Email | zrioseco@cusdk12.org |
+| Phone | (760) 768-3888 ext. 4179 |
+| Role | Day-to-day logistics, scheduling, and pilot coordination at CHS main campus; reports to Principal John Moreno |
+| Notes | Key logistics contact for scheduling a CHS demo or classroom pilot. Confirmed via CHS About Us page. Contact after Principal Moreno gives go-ahead. |
+| Source | CHS About Us page (chs.cusdk12.org) |
+
+### Delia Tovar — AP, CALEXICO HIGH SCHOOL
+| Field | Value |
+|-------|-------|
+| Title | Assistant Principal |
+| School | Calexico High School (Main Campus) |
+| Email | deliatovar@cusdk12.org *(confirmed — non-standard full first+last format)* |
+| Phone | (760) 768-3888 ext. 4173 |
+| Role | Co-AP at CHS main campus with Rioseco; manages campus operations and scheduling |
+| Notes | Non-standard email format (full first name + last name). Confirmed via CHS About Us page. Use if Moreno routes pilot coordination through her. |
+| Source | CHS About Us page (chs.cusdk12.org) |
+
+### Diana Perez — AP, ENRIQUE CAMARENA JR. HIGH
+| Field | Value |
+|-------|-------|
+| Title | Assistant Principal |
+| School | Enrique Camarena Junior High School |
+| Email | dperez@cusdk12.org *(inferred — pattern)* |
+| Phone | (760) 768-3808 |
+| Role | Handles pilot scheduling and logistics at the district's primary Grade 8 CAST pilot target school |
+| Notes | Key logistics contact for setting up a Grade 8 science pilot at Camarena once Principal Romero gives green light. Confirms time slots, teacher rosters, and calendar coordination. |
+| Source | Camarena school website (ec.cusdk12.org) |
 
 ---
 
@@ -214,15 +281,17 @@
 
 ## Tier 5: Board of Trustees
 
+*All seats are **at-large** (no trustee areas/wards). Board meets Thursdays, 5:00 p.m., 901 Andrade Ave.*
+
 | Name | Role | Term Ends | Background | STEM Indicator |
 |------|------|-----------|-----------|----------------|
-| Carlos Contreras | President | 2026 | TBD — long-serving trustee | TBD |
-| Alex Aviña | Vice President | 2028 | TBD | TBD |
-| Fabiola Calderon | Trustee | 2028 | TBD | TBD |
-| Michael Castillo | Trustee | 2026 | Appointed Jan. 2025; works in ICOE Early Childhood Education | **STEM/Education aligned** — works in ECE at county office |
-| Kevin Arellano | Trustee | 2026 | Appointed Jan. 2025; Imperial County Probation Dept. | Community safety focus |
+| Carlos Contreras | President | 2026 | Long-serving trustee; multiple prior terms. Seat up for re-election Nov. 2026. | TBD |
+| Alex Aviña | Vice President | 2028 | **Elected Nov. 2024 (top vote-getter, 34.19%).** Former Calexico USD principal (8 years); currently elementary school principal at El Centro Elementary SD. BA Liberal Studies (SDSU), MA Educational Leadership. Parent of 4 CHS graduates. | **Strong education champion** — active school principal; deep knowledge of curriculum decisions; parent of Calexico grads |
+| Fabiola Calderon | Trustee | 2028 | Elected Nov. 2024 (24.59% of vote, 2nd place). Limited public background on record. | TBD |
+| Michael Castillo | Trustee | 2026 | Appointed Jan. 23, 2025. **Senior Director, Early Childhood Education at ICOE** (county education office). Has been elected to CUSD board twice before this appointment. Immediately visited school sites after appointment. | **Highest education credibility on board** — county-level ed leadership; strong advocate for student programs |
+| Kevin Arellano | Trustee | 2026 | Appointed Jan. 23, 2025. Juvenile Division Manager, Imperial County Probation Dept.; occasional CUSD substitute teacher. First-time board member. | Community/youth safety focus; occasional classroom exposure as sub |
 
-**Board Contact**: Not publicly listed. Contact via district office (760) 768-3888 or address at public board meetings (Thursdays, 5:00 p.m., 901 Andrade Ave.).
+**Board Contact**: No individual emails publicly listed. Contact via district office (760) 768-3888 or address board at public meetings (Thursdays, 5:00 p.m., 901 Andrade Ave.). **Best board champion**: Alex Aviña (active principal background) and Michael Castillo (ICOE senior leadership).
 
 ---
 
@@ -230,13 +299,15 @@
 
 | Pattern | Prevalence | Example | Confidence |
 |---------|-----------|---------|-----------|
-| `flast@cusdk12.org` (1st initial + last) | 91% | ajimenez@cusdk12.org | High |
-| `firstlast@cusdk12.org` (full names, no space) | ~5% | gwilliamsballesteros@cusdk12.org | Confirmed |
-| `silopez@cusdk12.org` (2-letter prefix + last) | Edge case | Silvano Lopez | Confirmed |
-| Alternate pattern | Rare | erate@cusdk12.org (Eduardo Perez IT?) | Verify |
+| `flast@cusdk12.org` (1st initial + last) | ~88% | ajimenez@cusdk12.org | High |
+| `firstlast@cusdk12.org` (full names concatenated) | ~5% | gwilliamsballesteros@cusdk12.org | Confirmed |
+| `silopez@cusdk12.org` (2-letter prefix + last) | Edge case | Silvano Lopez → si+lopez | Confirmed |
+| `deliatovar@cusdk12.org` (full first + last, no separator) | Rare | Delia Tovar (CHS AP) | Confirmed — CHS About Us |
+| `alejandraa@cusdk12.org` (first name + letter) | Very rare | Alejandra Alvarez-Maduena (CHS9 AP) | Confirmed — CHS About Us |
+| `bhuerta@cusdk12.org` (1st initial + hyphenated last, pre-hyphen only) | Rare | Brisa Huerta-Price | Confirmed — dept page |
 
-**Verified emails** (from CDE directory or confirmed sources): jmoreno, dromero, ibadillo, mmolina, silopez, bfisher, efuentes, bnoriega, lfuller, jsantos, joshualopez, alimon
-**Pattern-inferred emails**: ajimenez, eramirez, ktabarez, egarcia, eperez, ediaz, clopez, ldelatorre, rguerrero, mnavarro, gwilliamsballesteros, dromero
+**Verified emails** (from CDE directory, school websites, or district department pages): jmoreno, zrioseco, deliatovar, alejandraa, dromero, ibadillo, mmolina, silopez, bfisher, efuentes, bnoriega, lfuller, jsantos, alimon, bhuerta, syanez
+**Pattern-inferred emails**: ajimenez, eramirez, ktabarez, egarcia, eperez, ediaz, clopez, ldelatorre, rguerrero, mnavarro, gwilliamsballesteros, farreola, dperez, mvelez
 
 ---
 
@@ -251,11 +322,13 @@
 | Esmeralda Garcia | Director, Expanded Learning (SPARKs) | egarcia@cusdk12.org | After-school STEM pilot entry point; independent budget |
 | Eduardo Perez | Coordinator, Information Technology | eperez@cusdk12.org | Tech vetting for Chromebook/Google Workspace compatibility |
 
-### Wave 2: Executive Buy-In (Week 2)
+### Wave 2: Executive + Budget Buy-In (Week 2)
 | Contact | Title | Email | Why Second |
 |---------|-------|-------|------------|
 | Elisa Ramirez | Asst. Superintendent, Educational Services | eramirez@cusdk12.org | Curriculum authority; Tabarez's supervisor |
-| Gabrielle Williams Ballesteros | Director, College & Career Readiness | gwilliamsballesteros@cusdk12.org | CTE pathways + high school science integration |
+| Gabrielle Williams Ballesteros | Sr. Director, College & Career Readiness | gwilliamsballesteros@cusdk12.org | CTE pathways + high school science integration |
+| Brisa Huerta-Price | Director, State & Federal Projects | bhuerta@cusdk12.org | Title IV-A funding pathway — structure invoice to use existing federal allocation |
+| Sylvia Yanez | Coordinator, ELL Services | syanez@cusdk12.org | Bilingual UI differentiator; EL science achievement gap champion |
 
 ### Wave 3: Pilot Schools (After Wave 1 Response)
 | Contact | Title | Email | Why Third |
@@ -263,6 +336,8 @@
 | Diego Romero | Principal, Enrique Camarena Jr. High | dromero@cusdk12.org | Primary pilot school — Grade 8 CAST target |
 | Isaura Badillo | Principal, William Moreno Jr. High | ibadillo@cusdk12.org | Secondary pilot school — community engagement strength |
 | John Moreno | Principal, Calexico High School | jmoreno@cusdk12.org | STEM building context; ICT pathway; Grade 11 CAST |
+| Diana Perez | AP, Enrique Camarena Jr. High | dperez@cusdk12.org | Pilot logistics at primary Grade 8 school |
+| Zuilma Rioseco | AP, Calexico High School | zrioseco@cusdk12.org | CHS pilot scheduling and logistics |
 
 ### Wave 4: Superintendent & Foundation (After Engagement Confirmed)
 | Contact | Title | Email | Why Fourth |
@@ -273,5 +348,6 @@
 ### Wave 5: Board & Business (After Staff Engagement)
 | Contact | Title | Email | Why Fifth |
 |---------|-------|-------|-----------|
-| Michael Castillo | Board Trustee | (via district office) | ICOE ECE background = education-aligned champion |
+| Alex Aviña | Board Trustee (VP) | (via district office) | Active principal background; parent of 4 CHS grads; strongest education champion on board |
+| Michael Castillo | Board Trustee | (via district office) | ICOE Senior Director ECE = education-aligned; highest board credibility |
 | Luis de La Torre | Asst. Superintendent, Business | ldelatorre@cusdk12.org | PO and contract routing |

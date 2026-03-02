@@ -1,6 +1,6 @@
 # Valley Center-Pauma Unified School District - Entry Strategy
 
-**Last Updated**: 2026-02-11
+**Last Updated**: 2026-03-02
 **Pipeline Stage**: 1 - Identified
 **District Type**: Rural-suburban K-12 unified district (3,636 students)
 
@@ -20,11 +20,21 @@
 
 | Field | Detail |
 |-------|--------|
+| **Name** | Dr. Maysa Bitar |
+| **Title** | Assistant Superintendent, Educational Services (NEW — Jan 5, 2026) |
+| **Email** | bitar.ma@vcpusd.org [INFERRED from pattern] |
+| **Phone** | (760) 749-0464 |
+| **Why this person** | Owns all curriculum and instruction decisions district-wide. Former classroom teacher (TOY 2017), principal at Lilac, and district curriculum/instruction lead. She is the functional gatekeeper for any instructional tool adoption — reach her in parallel with Hailwood. |
+
+## Tertiary Contact
+
+| Field | Detail |
+|-------|--------|
 | **Name** | Nicole Clymer |
-| **Title** | Assistant Principal, Valley Center High School |
+| **Title** | Principal, Valley Center High School *(promoted April 2024; was AP 2018–2024)* |
 | **Email** | clymer.ni@vcpusd.org |
-| **Phone** | TBD |
-| **Why this person** | Former biology and oceanography teacher who led NGSS standards adoption at Escondido High School. She understands three-dimensional science instruction and could be a classroom-level champion. Background makes her the strongest science/STEM contact at the school level. |
+| **Phone** | (760) 751-5500 |
+| **Why this person** | Former biology and oceanography teacher who led NGSS standards adoption at Escondido High School. Understands three-dimensional science instruction from direct classroom experience. Highest science literacy of any VCPUSD principal — a natural classroom-level champion and credible internal advocate for ModelIt. |
 
 ---
 
@@ -55,12 +65,18 @@
 
 | # | Name | Title | Leverage Point |
 |---|------|-------|---------------|
-| 1 | Mark Hailwood | Superintendent | NEW superintendent with explicit math instruction priority. 18-year veteran who knows every program. Primary buyer. |
-| 2 | Nicole Clymer | Asst. Principal, VCHS | Biology/oceanography teacher background + NGSS adoption experience. Science champion. |
-| 3 | FFA/Ag Teacher [TBD] | Agriculture CTE Lead | FFA program is the district's pride. Agriculture modeling is THE hook. |
-| 4 | Educational Services Dir. [TBD] | Curriculum Leadership | Owns instructional material decisions. Need to identify. |
-| 5 | Doyan Howard | Dir. Student Support Services | Special education leader. Can connect ModelIt to intervention funding. |
-| 6 | Paul Behneman | Board Member (Area 1) | Longest-serving current member. Board awareness for formal approvals. |
+| 1 | Mark Hailwood | Superintendent | NEW superintendent (Jan 2026) with explicit math instruction + CTE priorities. 18-year veteran who knows every program. Primary buyer. |
+| 2 | Dr. Maysa Bitar | Asst. Supt., Educational Services | NEW (Jan 2026) — owns all curriculum decisions. Former TOY winner, Lilac principal, district curriculum lead. **Primary gatekeeper for instructional tools.** |
+| 3 | Nicole Clymer | Principal, VCHS | Promoted from AP (April 2024). Former biology/oceanography teacher who led NGSS adoption at Escondido HS. Highest science literacy of any VCPUSD principal. |
+| 4 | Kenny Vexler | AP, VCHS | Taught Dual Language Science at VCMS + Biology at VCHS. Lifelong Valley Center resident. Best internal connector to FFA advisor and science staff. |
+| 5 | Leiani Osugi | Principal, VCMS | Leads the #1 ModelIt pilot site. Can authorize classroom pilots without district approval. |
+| 6 | Jameson Rienick | Principal, Lilac Elementary | Former K-12 Math Coordinator at SDCOE — strongest math expert in district school leadership. Endorsement carries unusual weight with Hailwood. |
+| 7 | FFA/Ag Teacher [TBD] | Agriculture CTE Lead, VCHS | Identify via Kenny Vexler or (760) 751-5500. Agriculture modeling is the most compelling VCPUSD-specific pitch. |
+| 8 | Alma Hernandez | AP, VCMS | 2019 VCPUSD Teacher of the Year. Knows VCMS culture deeply. Disciplinary literacy + PBIS champion — connects ModelIt to science writing and argumentation. |
+| 9 | Stephanie McEntire | Director of Special Projects | 26-year VCPUSD veteran. Former VC Elementary principal. Now leading grant and cross-site curriculum initiatives at district level. |
+| 10 | Alfonso Kolb Sr. | Board Member (Area 2) | First Native American elected to VCPUSD board. Rincon Band member. Board-level champion for tribal student success — critical for Pauma School outreach and cultural credibility. |
+| 11 | Paul Behneman | Board Member (Area 1, VP) | Longest-serving current member; elected unopposed twice. Broad community trust. Board awareness for formal approvals. |
+| 12 | Doyan Howard | Dir. Student Support Services | 24-year veteran. Connects ModelIt to Title III and EL intervention funding for 24.2% EL population. |
 
 ---
 

@@ -1,6 +1,6 @@
 # ModelIt District Sales Pipeline
 
-**Last Updated**: 2026-03-03 (Wave 12: Panama-Buena Vista Union School District — Kern County, 19,366 students, CDE priority score 95/100, no confirmed science publisher, Canvas+ClassLink+Synergy deployed, 30.2% math / 26.45% science, primary contact Dr. Valerie Park, Dir. ACT)
+**Last Updated**: 2026-03-03 (Added Perris Elementary SD + contact audit)
 
 ---
 
@@ -45,6 +45,7 @@
 | Arvin Union ESD | 1 - Identified | Kerrie Nisser (knisser@arvin-do.com) | Send intro email — 15.71% CAST + no confirmed science vendor + Canvas/Clever integration + bilingual + 59% Nearly Met hook | Mar 2026 | $12-25K pilot → $40-60K district-wide | 92.8% Hispanic, 15.5% EL, 15.71% CAST science, ~94% FRPM, NO confirmed science publisher (complete white space), Canvas+Clever already in place, bilingual Dual Immersion program, CDE priority 95/100 |
 | Beardsley Elementary SD | 1 - Identified | Tammy Barrera (tbarrera@beardsley.k12.ca.us) | Send intro email — 8.47% Gr7 math + PLTW complement + Clever deployed + free 6-week pilot offer | Mar 2026 | $12-20K pilot → $35-60K district-wide | 63.6% Hispanic, 13.29% math, 11.37% science, PLTW at BJHS (Mac Robertson = champion), Clever SSO deployed, NO confirmed K-8 science publisher (greenfield), CDE priority 95/100 |
 | Panama-Buena Vista Union | 1 - Identified | Dr. Valerie Park, Dir. ACT (vpark@pbvusd.k12.ca.us) | Send intro email — 43% math Gr3 drops to 22% Gr8 + 7.48% EL science CAST + no confirmed science vendor + Canvas/ClassLink/Synergy deployed | Mar 2026 | $20-40K pilot → $50-100K district-wide | 62.1% Hispanic, 30.2% math, 26.45% science, 14.5% EL, 19,366 students, 26 schools, NO confirmed science publisher (greenfield), Canvas+ClassLink+Synergy in place, CDE priority 95/100 |
+| Perris Elementary SD | 1 - Identified | Kelly Pebly (kpebly@perrisesd.org) | Visit Perris Elementary, meet Principal Pebly | Mar 2026 | $4-6K pilot → $7-12K scale | 100% minority, 83.7% ED, K-6 sweet spot, rural Riverside County, bilingual angle |
 
 ---
 
@@ -53,14 +54,14 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 20 | $297-1,300K |
+| Identified | 21 | $301-1,312K |
 | Contacted | 0 | - |
 | Engaged | 0 | - |
 | Demo | 0 | - |
 | Pilot Proposed | 0 | - |
 | Pilot Active | 0 | - |
 | Won | 0 | - |
-| **Total** | **20** | **$297K-1,300K** |
+| **Total** | **21** | **$301K-1,312K** |
 
 ---
 

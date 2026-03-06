@@ -34,7 +34,7 @@ MICROMAYHEM_VIDEO = "https://drive.google.com/file/d/1Xn6Ucu-tvC2wlttQhoCWHiyCqF
 
 def clean_district_name(name):
     """Strip internal suffixes like Intelligence Profile that should never appear in emails."""
-    name = re.sub(r"\s*[-\u2014\u2013]+\s*(?:Full\s+)?(?:District\s+)?Intelligence\s+Profile\s*$", "", name, flags=re.IGNORECASE)
+    name = re.sub(r"\s*[-\u2014\u2013]+\s*(?:Full\s+)?(?:District\s+)?(?:Intelligence|District)\s+Profile\s*$", "", name, flags=re.IGNORECASE)
     return name.strip()
 
 def load_sent():
@@ -51,7 +51,15 @@ def is_template_email(email):
     """Filter out template/placeholder emails like firstname.lastname@domain."""
     local = email.split("@")[0].lower()
     templates = ["firstname", "lastname", "first.last", "first_last",
-                 "finitial", "firsttwoinitials", "fullname"]
+                 "finitial", "firsttwoinitials", "fullname", "firstinitiallast"]
+    # Also filter personal emails and generic mailboxes
+    personal_domains = ["gmail.com", "yahoo.com", "aol.com", "hotmail.com", "outlook.com"]
+    generic_prefixes = ["askstudent", "info@", "noreply", "webmaster", "admin@"]
+    domain = email.split("@")[1].lower() if "@" in email else ""
+    if domain in personal_domains:
+        return True
+    if any(local.startswith(g.replace("@", "")) for g in generic_prefixes):
+        return True
     return any(t in local for t in templates)
 
 

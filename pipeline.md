@@ -1,6 +1,6 @@
 # ModelIt District Sales Pipeline
 
-**Last Updated**: 2026-03-06 (Added 3 new districts: Chula Vista ESD, Moreno Valley USD, Pomona USD)
+**Last Updated**: 2026-03-06 (Moved 3 districts to Contacted: Chula Vista ESD, Moreno Valley USD, Pomona USD — 17 emails sent)
 
 ---
 
@@ -52,9 +52,9 @@
 | Vista USD | 1 - Identified | Dr. Matt Doyle (superintendentsoffice@vistausd.org) | Send intro email — Career Superhighway + Blueprint for Excellence + EL math crisis | Mar 2026 | $20-35K pilot → $75-120K scale | 18K students, innovation-forward supt, CSBA Golden Bell, STEM2Career Expo, EL math at 4.43%, all 5 board emails verified, 15 min from Carlsbad |
 | Sweetwater UHSD | 1 - Identified | Ana Maria Alvarez (Ana.Alvarez@sweetwaterschools.org) | Send intro email — STEAM dept + SDSU Compact + Hispanic math equity gap | Mar 2026 | $40-75K pilot → $150-300K+ scale | 34.4K students, 29 schools, $646M revenue, dedicated STEAM dept, SDSU Compact pipeline, Hispanic math 23.21% vs Asian 63.1% (40pt gap), verified email |
 | National School District | 1 - Identified | Dr. Laura Philyaw (lphilyaw@nsd.us — verify) | Verify email via phone call, send intro re: EL math crisis + bilingual platform + WSSL complement | Mar 2026 | $5-10K pilot → $25-40K scale | 4.4K students, PK-6, 82% Hispanic, 54% EL, 25% math, 10.87% EL math, Navy WSSL STEM partnership, no confirmed science vendor, supt retiring June 2026, $16M budget deficit |
-| Chula Vista ESD | 1 - Identified | Instructional Services (619-425-9600 x181500) | Verify Senior Director of C&I, send intro re: DLI alignment + EL math gap + Twig Science complement | Mar 2026 | $20-40K pilot → $100-200K+ scale | 28.8K students (largest elem. in CA), PK-6, 68% Hispanic, 35% EL, 45.9% math but EL at 16%, 23 DLI schools, Clever SSO, Twig Science (2023), $360M Measure AA STEAM, Qualcomm Innovation Station, feeds into Sweetwater UHSD |
-| Moreno Valley USD | 1 - Identified | Dr. Esperanza Arce (earce@mvusd.net) | Send intro re: EL math crisis (5.4%) + bilingual platform + new superintendent alignment | Mar 2026 | $20-35K pilot → $100-200K scale | 30.9K students, K-12, 75% Hispanic, 19% EL, 18.8% math, EL math 5.4%, new bilingual supt (July 2024), $240M Measure X bond, Cyber Innovation Center, no confirmed science vendor, ClassLink SSO |
-| Pomona USD | 1 - Identified | Lilia Fuentes (lilia.fuentes@pusd.org — verify) | Send intro re: EL math crisis (7.28%) + bilingual + STEMscopes complement + Measure UU | Mar 2026 | $15-25K pilot → $75-150K scale | 21.1K students, K-12, 85% Hispanic, 25% EL, 24% math, EL math 7.28%, STEMscopes + Gizmos in use, Clever SSO + Chromebooks 1:1, $385M Measure UU, Cal Poly Pomona CAMINOS partnership, 18 CTE pathways |
+| Chula Vista ESD | 2 - Contacted | Dr. Eduardo Reyes (eduardo.reyes@cvesd.org) | Follow up on intro email, verify C&I Senior Director vacancy | Mar 2026 | $20-40K pilot → $100-200K+ scale | 28.8K students (largest elem. in CA), PK-6, 68% Hispanic, 35% EL, 45.9% math but EL at 16%, 23 DLI schools, Clever SSO, Twig Science (2023), $360M Measure AA STEAM, Qualcomm Innovation Station, feeds into Sweetwater UHSD. **Emailed 4 contacts Mar 6.** |
+| Moreno Valley USD | 2 - Contacted | Dr. Esperanza Arce (earce@mvusd.net) | Follow up on intro email, request 15-min call | Mar 2026 | $20-35K pilot → $100-200K scale | 30.9K students, K-12, 75% Hispanic, 19% EL, 18.8% math, EL math 5.4%, new bilingual supt (July 2024), $240M Measure X bond, Cyber Innovation Center, no confirmed science vendor, ClassLink SSO. **Emailed 5 contacts Mar 6.** |
+| Pomona USD | 2 - Contacted | Lilia Fuentes (lilia.fuentes@pusd.org) | Follow up on intro email, request meeting with Ed Services | Mar 2026 | $15-25K pilot → $75-150K scale | 21.1K students, K-12, 85% Hispanic, 25% EL, 24% math, EL math 7.28%, STEMscopes + Gizmos in use, Clever SSO + Chromebooks 1:1, $385M Measure UU, Cal Poly Pomona CAMINOS partnership, 18 CTE pathways. **Emailed 8 contacts Mar 6.** |
 
 ---
 
@@ -63,8 +63,8 @@
 | Stage | Count | Est. Total Value |
 |-------|-------|-----------------|
 | Research | 0 | - |
-| Identified | 30 | $474-2,454K |
-| Contacted | 0 | - |
+| Identified | 27 | $399-1,904K |
+| Contacted | 3 | $55-550K |
 | Engaged | 0 | - |
 | Demo | 0 | - |
 | Pilot Proposed | 0 | - |

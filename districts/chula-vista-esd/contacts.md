@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-06
 **Total Contacts**: 10
-**Email Pattern**: `firstname.lastname@cvesd.org` *(confirmed)*
+**Email Pattern**: `firstname[dot]lastname[at]cvesd.org` *(confirmed)*
 **Domain**: @cvesd.org
 **District Phone**: (619) 425-9600
 **Website**: https://www.cvesd.org/

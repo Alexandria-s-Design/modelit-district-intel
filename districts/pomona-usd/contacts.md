@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-06
 **Total Contacts**: 12
-**Email Pattern**: `firstname.lastname@pusd.org` *(inferred from domain — verify)*
+**Email Pattern**: `firstname[dot]lastname[at]pusd.org` *(inferred from domain — verify)*
 **Domain**: @pusd.org
 **District Phone**: (909) 397-4800
 **Website**: https://proudtobe.pusd.org/

@@ -47,6 +47,20 @@ def save_sent(sent_set):
     SENT_TRACKER.write_text(json.dumps({"sent": sorted(sent_set), "updated": datetime.now(timezone.utc).isoformat()}, indent=2))
 
 
+def is_template_email(email):
+    """Filter out template/placeholder emails like firstname.lastname@domain."""
+    local = email.split("@")[0].lower()
+    templates = ["firstname", "lastname", "first.last", "first_last",
+                 "finitial", "firsttwoinitials", "fullname"]
+    return any(t in local for t in templates)
+
+
+def extract_email_from_text(text):
+    """Extract a real email address from text, stripping markdown formatting."""
+    m = re.search(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", text)
+    return m.group(0) if m else ""
+
+
 def parse_contacts(district_slug):
     path = REPO_DIR / "districts" / district_slug / "contacts.md"
     if not path.exists() or path.stat().st_size == 0:
@@ -54,25 +68,42 @@ def parse_contacts(district_slug):
     content = path.read_text()
     contacts = []
     current = {}
+    in_section = False
     for line in content.split("\n"):
         line = line.strip()
         if line.startswith("## ") or line.startswith("### "):
             if current.get("email"):
                 contacts.append(current)
-            name_match = re.search(r"#+\s+(.+)", line)
-            current = {"name": name_match.group(1) if name_match else "", "title": "", "email": "", "hook": "", "notes": ""}
+            name_match = re.search(r"#+\s+(.+?)(?:\s*[-—]|$)", line)
+            if not name_match:
+                name_match = re.search(r"#+\s+(.+)", line)
+            current = {"name": name_match.group(1).strip() if name_match else "", "title": "", "email": "", "hook": "", "notes": ""}
+            in_section = True
+        # Dash-format: - **Email**: value
         elif line.lower().startswith("- **title"):
             m = re.search(r"\*\*:\s*(.+)", line)
             if m: current["title"] = m.group(1).strip()
         elif line.lower().startswith("- **email"):
             m = re.search(r"\*\*:\s*(.+)", line)
-            if m: current["email"] = m.group(1).strip()
+            if m: current["email"] = extract_email_from_text(m.group(1))
         elif line.lower().startswith("- **pitch hook") or line.lower().startswith("- **hook"):
             m = re.search(r"\*\*:\s*(.+)", line)
             if m: current["hook"] = m.group(1).strip()
         elif line.lower().startswith("- **role") or line.lower().startswith("- **position"):
             m = re.search(r"\*\*:\s*(.+)", line)
             if m and not current["title"]: current["title"] = m.group(1).strip()
+        # Table-format: | Email | value | or | Title | value |
+        elif in_section and "|" in line:
+            cells = [c.strip() for c in line.split("|")]
+            if len(cells) >= 3:
+                key = cells[1].lower().strip()
+                val = cells[2].strip()
+                if key == "email" and not current.get("email"):
+                    current["email"] = extract_email_from_text(val)
+                elif key == "title" and not current.get("title"):
+                    current["title"] = re.sub(r"\*", "", val).strip()
+                elif key in ("pitch hook", "hook") and not current.get("hook"):
+                    current["hook"] = re.sub(r'^"|"$', "", val).strip()
     if current.get("email"):
         contacts.append(current)
     # Fallback: extract any emails not captured by structured parsing
@@ -81,6 +112,8 @@ def parse_contacts(district_slug):
     for email in all_emails:
         if email.lower() not in parsed_emails:
             contacts.append({"name": "", "title": "", "email": email, "hook": "", "notes": ""})
+    # Filter out template/placeholder emails
+    contacts = [c for c in contacts if c.get("email") and not is_template_email(c["email"])]
     return contacts
 
 
@@ -133,7 +166,7 @@ def build_email_html(contact, district_name, district_hook):
 <li><strong>Works on Chromebooks</strong> - browser-based, no installation needed</li>
 </ul>
 
-<p>Here is a 2-minute video of students using it: <a href="{MICROMAYHEM_VIDEO}" style="color: #2997FF;">MicroMayhem Activity</a></p>
+<p>We are also developing <strong>MicroMayhem</strong> - a companion game that will be available on the Apple App Store and Google Play Store where students battle real biological threats using the same modeling skills they learn in class. Here is a 2-minute video of students playing it: <a href="{MICROMAYHEM_VIDEO}" style="color: #2997FF;">MicroMayhem Preview</a></p>
 
 <p>Would you be open to a 15-minute look at how this could support {district_name}'s science goals? I can also set up a free teacher preview account.</p>
 

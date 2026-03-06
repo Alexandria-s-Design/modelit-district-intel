@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-02
 **Total Contacts**: 25
-**Email Pattern**: `lastname.firsttwoinitials@vcpusd.org` (e.g., clymer.ni@vcpusd.org)
+**Email Pattern**: `lastname[dot]firsttwoinitials[at]vcpusd.org` (e.g., clymer.ni@vcpusd.org)
 **Alt Pattern**: `lastname.fullname@vcpusd.org` (used when first-two-initials would conflict; e.g., hernandez.alma)
 **District Phone**: (760) 749-0464
 **Website**: https://www.vcpusd.org

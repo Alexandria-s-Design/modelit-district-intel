@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-02
 **Total Contacts**: 25
-**Email Pattern**: `firstname_lastname@bearvalleyusd.org` (underscore separator)
+**Email Pattern**: `firstname[_]lastname[at]bearvalleyusd.org` (underscore separator)
 **Known Exception**: LtCol Jack Roberts uses `roberts_jack@bearvalleyusd.org` (reversed format)
 **District Phone**: (909) 866-4631
 **Website**: https://www.bearvalleyusd.org

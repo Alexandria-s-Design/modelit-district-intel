@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-02
 **Total Contacts**: 69
-**Email Pattern**: `firstname.lastname@sbcusd.k12.ca.us` (primary) | `firstname.lastname@sbcusd.com` (some directors)
+**Email Pattern**: `firstname[dot]lastname[at]sbcusd.k12.ca.us` (primary) | `firstname[dot]lastname[at]sbcusd.com` (some directors)
 **All emails verified from official SBCUSD.com pages or CDE School Directory unless noted**
 
 ---

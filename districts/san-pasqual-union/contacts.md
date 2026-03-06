@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-02
 **Total Contacts**: 27
-**Email Pattern**: `first.last@sanpasqualunion.net` (confirmed from district staff directory)
+**Email Pattern**: `first[dot]last[at]sanpasqualunion.net` (confirmed from district staff directory)
 **Domain**: sanpasqualunion.net
 **District Phone**: (760) 745-4931
 **General Email**: spusd@sanpasqualunion.net

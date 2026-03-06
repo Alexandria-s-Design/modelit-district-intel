@@ -2,7 +2,7 @@
 
 **Last Updated**: 2026-03-02
 **Total Contacts**: 40
-**Email Pattern**: `first_last@rimsd.k12.ca.us` (underscore separator, all lowercase)
+**Email Pattern**: `first[_]last[at]rimsd.k12.ca.us` (underscore separator, all lowercase)
 **District Phone**: (909) 336-2031
 **Superintendent Direct**: (909) 336-4100 x105
 **Website**: https://www.rimsd.k12.ca.us
